@@ -26,7 +26,7 @@
 
 ### Stat's :chart_with_upwards_trend:
 
-| <a href="https://github.com/roacv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roacv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Roacv's github stats" /></a> | <a href="https://github.com/roacv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roacv&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/roacv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=roacv&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Roacv's github stats" /></a> | <a href="https://github.com/roacv/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roacv&layout=compact&theme=nord&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
