@@ -2,7 +2,7 @@
 
 ### Reachme in :coffee:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-contreras-57a28065/)](https://www.linkedin.com/in/rodrigo-contreras-57a28065/)
-[![Gmail Badge](https://img.shields.io/badge/-roadcove-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roadcove@gmail.com)](mailto:jessicalim813@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-roadcove-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:roadcove@gmail.com)](mailto:roadcove@gmail.com)
 
 ### Tech & Tools :hammer_and_wrench:
 
