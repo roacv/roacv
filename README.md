@@ -1,5 +1,4 @@
-### Hi there 👋
-
+###  👋 Hi i'm Rodrigo, IT Consultant and Full stack developer, love to work with a cup of coffee and some nice music.
 
 ### Reachme in :coffee:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-contreras-57a28065/)](https://www.linkedin.com/in/rodrigo-contreras-57a28065/)
